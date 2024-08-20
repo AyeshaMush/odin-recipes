@@ -10,11 +10,6 @@
 
 ->The project is a basic recipe website which shows recipes for three dishes. 
 
-->Here is a list of the three recipes included in the project:
-1. Basbousa
-2. Chocolate chip cookies
-3. Lasagna
-
 ->Each recipe will include a list of ingredients and instructions on how to prepare the dish.
 
 ->Feel free to explore the project and try out the recipes yourself!
